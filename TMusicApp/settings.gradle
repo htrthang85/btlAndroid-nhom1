@@ -1,0 +1,2 @@
+rootProject.name='TMusicApp'
+include ':app'

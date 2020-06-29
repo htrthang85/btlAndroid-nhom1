@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425476222305",
+    "firebase_url": "https://pmusicapp-b64c2.firebaseio.com",
+    "project_id": "pmusicapp-b64c2",
+    "storage_bucket": "pmusicapp-b64c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425476222305:android:601829516ce9d7aa0ba920",
+        "android_client_info": {
+          "package_name": "com.example.pmusicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425476222305-rcdr8o0odekm7d974ues2c57a548i5h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pmusicapp",
+            "certificate_hash": "016cd893210d10a2281cd5e9bfc7fe74ba3ded1e"
+          }
+        },
+        {
+          "client_id": "425476222305-6oo074apsd85bf8iparj4rdg252vf6n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_An5Wal1dk-7wFlxhdC7dEtx1--QwOxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425476222305-6oo074apsd85bf8iparj4rdg252vf6n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
